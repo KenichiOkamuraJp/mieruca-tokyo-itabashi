@@ -7,7 +7,7 @@ jogai: data/exclusion.csv
 font: static/ShipporiMinchoB1-ExtraBold.ttf
 target:
   place: 板橋区
-  start: 2001年2月
+  start: 2006年6月
   end: 2022年8月
   url: https://www.city.itabashi.tokyo.jp/kugikai/
 developer:
